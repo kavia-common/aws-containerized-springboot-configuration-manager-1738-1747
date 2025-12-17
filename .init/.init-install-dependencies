@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew dependencies",
+    "working_directory": "/home/kavia/workspace/code-generation/aws-containerized-springboot-configuration-manager-1738-1747/springboot_backend"
+}
